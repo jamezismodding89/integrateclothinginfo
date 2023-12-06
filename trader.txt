@@ -1,0 +1,102 @@
+
+
+
+<Category> Bags
+		jamez_gucci_bag_original,														*,		12000,		-1
+		jamez_gucci_bag_black,															*,		12000,		-1
+		jamez_stoney_coalition_backpack_black,											*,		30000,		-1
+		jamez_stoney_coalition_backpack_grey,											*,		30000,		-1
+		jamez_stoney_coalition_backpack_frog,											*,		30000,		-1
+		jamez_stoney_coalition_backpack_green_wool,										*,		30000,		-1
+		jamez_stoney_coalition_backpack_crayon,											*,		30000,		-1
+		jamez_stoney_coalition_backpack_dirty_orange,									*,		30000,		-1
+		jamez_stoney_coalition_backpack_euphoria,										*,		30000,		-1
+		jamez_stoney_coalition_backpack_scarface,										*,		30000,		-1
+		jamez_stoney_coalition_backpack_tropical,										*,		30000,		-1
+
+	<Category> Jackets
+		jamez_berghaus_black_jacket,													*,		10000,		-1
+		jamez_moncler_black_jacket,														*,		10000,		-1
+		jamez_moncler_crayon_jacket,													*,		10000,		-1
+		jamez_moncler_dirty_orange_jacket,												*,		10000,		-1
+		jamez_moncler_green_jacket,														*,		10000,		-1
+		jamez_moncler_red_jacket,														*,		10000,		-1
+
+	<Category> Stone Island Jackets
+		jamez_stoney_30th_turquoise_jacket,												*,		10000,		-1
+		jamez_stoney_30th_yellow_jacket,												*,		10000,		-1
+		jamez_stoney_black_jacket,														*,		10000,		-1
+		jamez_stoney_blue_white_badge_jacket,											*,		10000,		-1
+		jamez_stoney_crayon_jacket,														*,		10000,		-1
+		jamez_stoney_dirty_orange_jacket,												*,		10000,		-1
+		jamez_stoney_frog_jacket,														*,		10000,		-1
+		jamez_stoney_green_wool_jacket,													*,		10000,		-1
+		jamez_stoney_red_jacket,														*,		10000,		-1
+		jamez_stoney_wolf_white_badge_jacket,											*,		10000,		-1
+		jamez_stoney_serbian_jacket,													*,		10000,		-1
+		jamez_moncler_stoney_collab_jacket,												*,		10000,		-1
+
+	<Category> Pants
+		jamez_stoney_black_cargo,														*,		2000,		-1
+		jamez_stoney_green_cargo,														*,		2000,		-1
+		jamez_stoney_beige_cargo,														*,		2000,		-1
+		jamez_stoney_patchy_jeans,														*,		2000,		-1
+		jamez_stoney_black_jeans,														*,		2000,		-1
+		jamez_stoney_brown_jeans,														*,		2000,		-1
+		jamez_stoney_denim_jeans,														*,		2000,		-1
+		jamez_stoney_crayon_combat_pants,												*,		4000,		-1
+		jamez_stoney_dirty_orange_combat_pants,											*,		4000,		-1
+		jamez_stoney_frog_combat_pants,													*,		4000,		-1
+		jamez_stoney_green_wool_combat_pants,											*,		4000,		-1
+		jamez_stoney_serbian_combat_pants,												*,		4000,		-1
+		
+	<Category> Vests
+		jamez_north_face_blue_vest,														*,		2000,		-1
+		jamez_north_face_green_vest,													*,		2000,		-1
+		jamez_north_face_purple_vest,													*,		2000,		-1
+		jamez_north_face_red_vest,														*,		2000,		-1
+		jamez_north_face_trees_vest,													*,		2000,		-1
+		jamez_stoney_smersh_vest_black,														*,		4000,		-1
+		jamez_stoney_smersh_vest_crayon,														*,		4000,		-1
+		jamez_stoney_smersh_vest_dirty_orange,												*,		4000,		-1
+		jamez_stoney_smersh_vest_frog,														*,		4000,		-1
+		jamez_stoney_smersh_vest_green_wool,													*,		4000,		-1
+		jamez_stoney_smersh_bag_black,														*,		1500,		-1
+		jamez_stoney_smersh_bag_crayon,														*,		1500,		-1
+		jamez_stoney_smersh_bag_dirty_orange,													*,		1500,		-1
+		jamez_stoney_smersh_bag_frog,															*,		1500,		-1
+		jamez_stoney_smersh_bag_green_wool,													*,		1500,		-1
+
+	<Category> Hats		
+		jamez_cg_black_ushanka,															*,		3000,		-1
+		jamez_cg_green_wool_ushanka,													*,		3000,		-1
+		jamez_cg_red_ushanka,															*,		3000,		-1
+		jamez_cg_white_ushanka,															*,		3000,		-1
+		jamez_moncler_black_boonie,														*,		3000,		-1
+		jamez_moncler_green_boonie,														*,		3000,		-1
+		jamez_stoney_black_cap,															*,		3000,		-1
+		jamez_stoney_blue_cap,															*,		3000,		-1
+		jamez_stoney_red_cap,															*,		3000,		-1
+		jamez_stoney_green_wool_cap,													*,		3000,		-1
+		jamez_stoney_serbian_cap,														*,		3000,		-1
+
+	<Category> Masks
+		jamez_stoney_crayon_mask,														*,		2000,		-1
+		jamez_stoney_dirty_orange_mask,													*,		2000,		-1
+		jamez_stoney_england_mask,														*,		2000,		-1
+		jamez_stoney_euphoria_mask,														*,		2000,		-1
+		jamez_stoney_serbia_mask,														*,		2000,		-1
+		jamez_stoney_serbia_camo_mask,													*,		2000,		-1
+		
+	<Category> Gloves + Shoes
+		jamez_cg_black_gloves,															*,		3000,		-1
+		jamez_stoney_black_gloves,														*,		3000,		-1
+		jamez_stoney_frog_gloves,														*,		3000,		-1
+		jamez_stoney_green_gloves,														*,		3000,		-1
+		jamez_stoney_red_gloves,														*,		3000,		-1
+		jamez_converse_black_shoes,														*,		4000,		-1
+		
+		jamez_crossbow_white,			W,		2500,		400
+		jamez_crossbow_blue,			W,		2500,		400
+		jamez_crossbow_yellow,			W,		2500,		400
+		jamez_crossbow_red,				W,		2500,		400

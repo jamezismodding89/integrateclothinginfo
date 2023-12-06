@@ -1,0 +1,1299 @@
+		
+		
+		
+		
+	<types>
+		<type name="jamez_gucci_bag_original">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="jamez_gucci_bag_black">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_grey">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_frog">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_green_wool">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_crayon">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_dirty_orange">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_euphoria">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_scarface">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_coalition_backpack_tropical">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_berghaus_black_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_black_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_crayon_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_dirty_orange_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_green_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_red_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_30th_turquoise_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_30th_yellow_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_black_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_blue_white_badge_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_crayon_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_dirty_orange_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_frog_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_green_wool_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_red_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_wolf_white_badge_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_serbian_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_moncler_stoney_collab_jacket">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_black_cargo">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_green_cargo">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_beige_cargo">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_patchy_jeans">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_black_jeans">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_brown_jeans">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_denim_jeans">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_crayon_combat_pants">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_dirty_orange_combat_pants">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_frog_combat_pants">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_green_wool_combat_pants">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_stoney_serbian_combat_pants">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_north_face_blue_vest">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_north_face_green_vest">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_north_face_purple_vest">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_north_face_red_vest">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_north_face_trees_vest">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_vest_black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_vest_crayon">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_vest_dirty_orange">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_vest_frog">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_vest_green_wool">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_bag_black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_bag_crayon">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_bag_dirty_orange">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_bag_frog">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_smersh_bag_green_wool">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_green_wool_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_red_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_white_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_moncler_black_boonie">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_moncler_green_boonie">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_black_cap">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_blue_cap">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_red_cap">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_green_wool_cap">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_serbian_cap">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_crayon_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_dirty_orange_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_england_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_euphoria_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_serbia_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_serbia_camo_mask">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_gloves">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_black_gloves">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_frog_gloves">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_green_gloves">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_stoney_red_gloves">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_converse_black_shoes">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+		<type name="jamez_cg_black_ushanka">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="jamez_crossbow_white">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+    </type>
+	    <type name="jamez_crossbow_blue">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+    </type>
+	    <type name="jamez_crossbow_yellow">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+    </type>
+	    <type name="jamez_crossbow_red">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+    </type>
+</types>
